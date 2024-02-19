@@ -1,3 +1,4 @@
 ## Praticando orientação a objetos
 
-# Orienta-o-Objeto-Disciplina
+Revendo conceitos do paradigma de orientação a objetos
+
