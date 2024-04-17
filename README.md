@@ -1,4 +1,4 @@
-## Praticando orientação a objetos
+## Estudos de java
 
 Revendo conceitos do paradigma de orientação a objetos
 
