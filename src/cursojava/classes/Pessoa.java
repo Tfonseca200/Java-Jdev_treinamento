@@ -81,6 +81,13 @@ public class Pessoa {
 		return this.pessoaMaiorIdade() ? "Liberado , é maior de idade" : "Negado, menor de idade";
 	}
 
+	@Override
+	public String toString() {
+		return "Pessoa [nome=" + nome + ", idade=" + idade + "]";
+	}
+	
+	
+
 	
 	
 	
